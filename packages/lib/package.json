@@ -1,0 +1,26 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Willem van Duijn <willem.vanduijn@kpn.com>",
+  "homepage": "https://github.com/Wvduijn/lerna-sandbox#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wvduijn/lerna-sandbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Wvduijn/lerna-sandbox/issues"
+  }
+}
